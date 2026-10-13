@@ -1,0 +1,9 @@
+node_modules/
+school_system.db
+school_system.db-shm
+school_system.db-wal
+.env
+.env.*
+!.env.example
+*.service-account.json
+google-credentials.json
